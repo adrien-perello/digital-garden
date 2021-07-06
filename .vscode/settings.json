@@ -1,5 +1,9 @@
-{
-    "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "/home/adrien/Documents/Apps/Miniconda/miniconda3/envs/minimal-env/bin/python",
-    "python.linting.enabled": true
-}
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync"
