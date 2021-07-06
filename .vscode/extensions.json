@@ -19,8 +19,5 @@
 
     // Adds `show graph` command that displays graph of linked notes
     "tchayen.markdown-links",
-
-    // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
   ]
 }
