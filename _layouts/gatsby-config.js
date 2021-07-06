@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-template`,
+  pathPrefix: `/digital-garden`,
   siteMetadata: {
     title: `Adrien's digital garden`,
   },
