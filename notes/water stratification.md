@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🔑
-- ⌛
----%%
-
 # water stratification
 
 - water stratification increase [[ocean deoxygenation]] 

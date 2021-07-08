@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🔑
-- ⌛
----%%
-
 # ocean deoxygenation
 
 - increase [[biodiversity loss]]

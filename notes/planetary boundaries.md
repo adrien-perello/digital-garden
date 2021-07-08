@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🗺️ 
-- 🌱
----%%
-
 # planetary boundaries
 
 Planetary boundaries represent [[tipping points]] beyond which catastrophic changes can occur in [[earth system]] processes

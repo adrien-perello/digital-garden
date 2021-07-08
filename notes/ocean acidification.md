@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🗺️ 
-- ⌛
----%%
-
 # ocean acidification
 
 - [[CO2 emissions]] lead to [[CO2 dissolution]] from the [[atmosphere]] into the [[ocean]]

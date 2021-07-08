@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🔑
-- ⌛
----%%
-
 # eutrophication
 
 - [[agriculture]] leads to eutrophication

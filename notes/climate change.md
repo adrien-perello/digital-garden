@@ -1,9 +1,3 @@
-%%---
-tags:
-- 📋/🗺️ 
-- 🌱
----%%
-
 # climate change
 
 - climate change weakens [[ocean currents]]
