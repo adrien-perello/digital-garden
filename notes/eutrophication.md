@@ -1,5 +1,12 @@
-# Eutrophication
+---
+tags:
+- 📋/🔑
+- ⌛
+---
 
-Consequences:
+# eutrophication
 
-- [[increased-phytoplankton-production]]
+- [[agriculture]] leads to eutrophication
+	- phosphorus runoff 
+	- nitrogen runoff
+- eutrophication increases [[algal bloom]]
