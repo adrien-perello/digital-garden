@@ -7,9 +7,6 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        plugins: [
-        `gatsby-remark-mathjax`,
-        ],
         rootNote: "/index",
         contentPath: `${__dirname}/..`,
         ignore: [
